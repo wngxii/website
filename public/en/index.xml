@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>测试 on WANG Xi&#39;s website</title>
-    <link>https://www.wngxii.github.io/en/</link>
+    <link>https://wangxi.netlify.app/en/</link>
     <description>Recent content in 测试 on WANG Xi&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:18:23 +0800</lastBuildDate><atom:link href="https://www.wngxii.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2023 00:18:23 +0800</lastBuildDate><atom:link href="https://wangxi.netlify.app/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test1</title>
-      <link>https://www.wngxii.github.io/en/posts/test/</link>
+      <link>https://wangxi.netlify.app/en/posts/test/</link>
       <pubDate>Tue, 04 Apr 2023 00:18:23 +0800</pubDate>
       
-      <guid>https://www.wngxii.github.io/en/posts/test/</guid>
+      <guid>https://wangxi.netlify.app/en/posts/test/</guid>
       <description>夢の途中で目を覚まし 瞼閉じても戻れない さっきまで鮮明だった世界もう幻 汗ばんだ私をそっと抱き寄せて たくさんの初めてを深く刻んだ 揺れる若葉に手を</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://www.wngxii.github.io/en/about/</link>
+      <link>https://wangxi.netlify.app/en/about/</link>
       <pubDate>Sat, 06 Nov 2021 14:57:28 +0800</pubDate>
       
-      <guid>https://www.wngxii.github.io/en/about/</guid>
+      <guid>https://wangxi.netlify.app/en/about/</guid>
       <description>WANG Xi Hi! I am a graduate student at RUC. Contact me 👇 Email: wang.xi.007@163.com</description>
     </item>
     

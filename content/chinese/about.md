@@ -24,7 +24,7 @@ cover:
 
 <p style="font-size: 25px;">王曦（清纯女大版）</p>
 
-![myphoto](https://wx2.sinaimg.cn/mw2000/006TjNXGly1hb0hy1dco1j32ex1neqv6.jpg)
+![myphoto](https://github.com/wngxii/photographs/blob/master/aboutme.JPG?raw=true)
 
 你好！<br/>
 
@@ -34,7 +34,7 @@ cover:
 
 我最喜欢我的小狗！<br/>
 
-![mydogphoto](https://wx4.sinaimg.cn/mw2000/006TjNXGly1hb0ii28cv3j32j71qchdt.jpg)
+![mydogphoto](https://github.com/wngxii/photographs/blob/master/mydog.JPG?raw=true)
 
 如果你有什么建议或疑问，请联系我👇<br/>
 

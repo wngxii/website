@@ -2,108 +2,108 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.wngxii.github.io/cn/about/</loc>
+    <loc>https://wangxi.netlify.app/cn/about/</loc>
     <lastmod>2023-04-04T14:57:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wngxii.github.io/en/about/"
+                href="https://wangxi.netlify.app/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.wngxii.github.io/cn/about/"
+                href="https://wangxi.netlify.app/cn/about/"
                 />
   </url><url>
-    <loc>https://www.wngxii.github.io/cn/posts/</loc>
+    <loc>https://wangxi.netlify.app/cn/posts/</loc>
     <lastmod>2023-04-04T00:18:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wngxii.github.io/en/posts/"
+                href="https://wangxi.netlify.app/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.wngxii.github.io/cn/posts/"
+                href="https://wangxi.netlify.app/cn/posts/"
                 />
   </url><url>
-    <loc>https://www.wngxii.github.io/cn/</loc>
+    <loc>https://wangxi.netlify.app/cn/</loc>
     <lastmod>2023-04-04T00:18:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wngxii.github.io/en/"
+                href="https://wangxi.netlify.app/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.wngxii.github.io/cn/"
+                href="https://wangxi.netlify.app/cn/"
                 />
   </url><url>
-    <loc>https://www.wngxii.github.io/cn/posts/test/</loc>
+    <loc>https://wangxi.netlify.app/cn/posts/test/</loc>
     <lastmod>2023-04-04T00:18:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wngxii.github.io/en/posts/test/"
+                href="https://wangxi.netlify.app/en/posts/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.wngxii.github.io/cn/posts/test/"
+                href="https://wangxi.netlify.app/cn/posts/test/"
                 />
   </url><url>
-    <loc>https://www.wngxii.github.io/cn/series/</loc>
+    <loc>https://wangxi.netlify.app/cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wngxii.github.io/en/series/"
+                href="https://wangxi.netlify.app/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.wngxii.github.io/cn/series/"
+                href="https://wangxi.netlify.app/cn/series/"
                 />
   </url><url>
-    <loc>https://www.wngxii.github.io/cn/search/</loc>
+    <loc>https://wangxi.netlify.app/cn/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wngxii.github.io/en/search/"
+                href="https://wangxi.netlify.app/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.wngxii.github.io/cn/search/"
+                href="https://wangxi.netlify.app/cn/search/"
                 />
   </url><url>
-    <loc>https://www.wngxii.github.io/cn/photographs/</loc>
+    <loc>https://wangxi.netlify.app/cn/photographs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wngxii.github.io/en/photographs/"
+                href="https://wangxi.netlify.app/en/photographs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.wngxii.github.io/cn/photographs/"
+                href="https://wangxi.netlify.app/cn/photographs/"
                 />
   </url><url>
-    <loc>https://www.wngxii.github.io/cn/archives/</loc>
+    <loc>https://wangxi.netlify.app/cn/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.wngxii.github.io/en/archives/"
+                href="https://wangxi.netlify.app/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://www.wngxii.github.io/cn/archives/"
+                href="https://wangxi.netlify.app/cn/archives/"
                 />
   </url><url>
-    <loc>https://www.wngxii.github.io/cn/%E6%A0%87%E7%AD%BE/</loc>
+    <loc>https://wangxi.netlify.app/cn/%E6%A0%87%E7%AD%BE/</loc>
   </url><url>
-    <loc>https://www.wngxii.github.io/cn/%E7%B1%BB%E5%88%AB/</loc>
+    <loc>https://wangxi.netlify.app/cn/%E7%B1%BB%E5%88%AB/</loc>
   </url>
 </urlset>

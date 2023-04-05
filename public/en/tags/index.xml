@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on WANG Xi&#39;s website</title>
-    <link>https://www.wngxii.github.io/en/tags/</link>
+    <link>https://wangxi.netlify.app/en/tags/</link>
     <description>Recent content in Tags on WANG Xi&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:18:23 +0800</lastBuildDate><atom:link href="https://www.wngxii.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Apr 2023 00:18:23 +0800</lastBuildDate><atom:link href="https://wangxi.netlify.app/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://www.wngxii.github.io/en/tags/blog/</link>
+      <link>https://wangxi.netlify.app/en/tags/blog/</link>
       <pubDate>Tue, 04 Apr 2023 00:18:23 +0800</pubDate>
       
-      <guid>https://www.wngxii.github.io/en/tags/blog/</guid>
+      <guid>https://wangxi.netlify.app/en/tags/blog/</guid>
       <description></description>
     </item>
     
