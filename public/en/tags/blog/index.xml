@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on WANG Xi&#39;s website</title>
+    <link>https://www.wngxii.github.io/en/tags/blog/</link>
+    <description>Recent content in blog on WANG Xi&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Apr 2023 00:18:23 +0800</lastBuildDate><atom:link href="https://www.wngxii.github.io/en/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test1</title>
+      <link>https://www.wngxii.github.io/en/posts/test/</link>
+      <pubDate>Tue, 04 Apr 2023 00:18:23 +0800</pubDate>
+      
+      <guid>https://www.wngxii.github.io/en/posts/test/</guid>
+      <description>夢の途中で目を覚まし 瞼閉じても戻れない さっきまで鮮明だった世界もう幻 汗ばんだ私をそっと抱き寄せて たくさんの初めてを深く刻んだ 揺れる若葉に手を</description>
+    </item>
+    
+  </channel>
+</rss>
