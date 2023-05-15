@@ -24,7 +24,7 @@ cover:
 
 <p style="font-size: 25px;">王曦</p>
 
-![myphoto](https://github.com/wngxii/photographs/blob/master/aboutme.JPG?raw=true)
+![myphoto](/img/aboutme.jpg)
 
 你好！<br/>
 

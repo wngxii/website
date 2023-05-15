@@ -24,7 +24,7 @@ cover:
 
 <p style="font-size: 25px;">WANG Xi</p>
 
-![myphoto](https://github.com/wngxii/photographs/blob/master/aboutme.JPG?raw=true)
+![myphoto](/img/aboutme.jpg)
 
 Hi! <br/>
 

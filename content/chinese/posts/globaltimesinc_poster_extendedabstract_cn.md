@@ -27,4 +27,4 @@ cover:
     alt: ""
     relative: true
 ---
-![论文海报（中文）](https://i.postimg.cc/mkHYC5WH/1993-2022.jpg)
+![论文海报（中文）](/img/globaltimesintlnews_poster.jpg)
