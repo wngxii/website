@@ -2,21 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wangxi.netlify.app/cn/about/</loc>
-    <lastmod>2023-04-04T14:57:28+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wangxi.netlify.app/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://wangxi.netlify.app/cn/about/"
-                />
+    <loc>https://wangxi.netlify.app/cn/posts/globaltimesinc_poster_extendedabstract_cn/</loc>
+    <lastmod>2023-05-15T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://wangxi.netlify.app/cn/posts/</loc>
-    <lastmod>2023-04-04T00:18:23+08:00</lastmod>
+    <lastmod>2023-05-15T00:18:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +19,7 @@
                 />
   </url><url>
     <loc>https://wangxi.netlify.app/cn/</loc>
-    <lastmod>2023-04-04T00:18:23+08:00</lastmod>
+    <lastmod>2023-05-15T00:18:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,17 +31,17 @@
                 href="https://wangxi.netlify.app/cn/"
                 />
   </url><url>
-    <loc>https://wangxi.netlify.app/cn/posts/test/</loc>
-    <lastmod>2023-04-04T00:18:23+08:00</lastmod>
+    <loc>https://wangxi.netlify.app/cn/about/</loc>
+    <lastmod>2023-04-04T14:57:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wangxi.netlify.app/en/posts/test/"
+                href="https://wangxi.netlify.app/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://wangxi.netlify.app/cn/posts/test/"
+                href="https://wangxi.netlify.app/cn/about/"
                 />
   </url><url>
     <loc>https://wangxi.netlify.app/cn/series/</loc>

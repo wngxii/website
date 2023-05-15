@@ -22,19 +22,13 @@ cover:
 
 
 
-<p style="font-size: 25px;">王曦（清纯女大版）</p>
+<p style="font-size: 25px;">王曦</p>
 
 ![myphoto](https://github.com/wngxii/photographs/blob/master/aboutme.JPG?raw=true)
 
 你好！<br/>
 
-这里是中国人民大学新闻学院的苦逼研究生一枚呀~<br/>
-
-（认真的自我介绍之后有空会好好写的orz）<br/>
-
-我最喜欢我的小狗！<br/>
-
-![mydogphoto](https://github.com/wngxii/photographs/blob/master/mydog.JPG?raw=true)
+我是中国人民大学新闻学院的一名硕士研究生。<br/>
 
 如果你有什么建议或疑问，请联系我👇<br/>
 
