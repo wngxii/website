@@ -27,7 +27,7 @@ cover:
     alt: ""
     relative: true
 ---
-> 这篇讲稿整理了我对亨利·詹金斯（[Henry Jenkins](http://henryjenkins.org/)）的[《文本盗猎者》](https://book.douban.com/subject/26883044/)（Texual Poachers）一书所做的笔记和思考，用于2022年11月1日在人大[刘海龙](http://jcr.ruc.edu.cn/zw/jzyg/js/9e0576fa38654eea825af9e98cc9eb53.htm)老师组织的[“海龙果读书会”](https://mp.weixin.qq.com/s/WDuwM9iOmL37d3yGWu0O3g)上的领读分享。讲稿大部分内容是对原文（我认为的）重点的提炼，并附有一些我个人的评价和思考，权当是一份读书笔记，可以帮助你在不到一个小时内浏览完《文本盗猎者》这本书。但我真诚地推荐所有人阅读全书，特别是那些对粉丝研究感兴趣的人，这本书可以实实在在地给予读者很多研究视角上的启发。<br/>
+> 这篇讲稿整理了我对亨利·詹金斯（[Henry Jenkins](http://henryjenkins.org/)）的[《文本盗猎者》](https://book.douban.com/subject/26883044/)（Textual Poachers）一书所做的笔记和思考，用于2022年11月1日在人大[刘海龙](http://jcr.ruc.edu.cn/zw/jzyg/js/9e0576fa38654eea825af9e98cc9eb53.htm)老师组织的[“海龙果读书会”](https://mp.weixin.qq.com/s/WDuwM9iOmL37d3yGWu0O3g)上的领读分享。讲稿大部分内容是对原文（我认为的）重点的提炼，并附有一些我个人的评价和思考，权当是一份读书笔记，可以帮助你在不到一个小时内浏览完《文本盗猎者》这本书。但我真诚地推荐所有人阅读全书，特别是那些对粉丝研究感兴趣的人，这本书可以实实在在地给予读者很多研究视角上的启发。<br/>
 
 ![ ](/文本盗猎者讲稿/1.jpg)
 ![ ](/文本盗猎者讲稿/2.jpg)
