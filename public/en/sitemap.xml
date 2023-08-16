@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wangxi.netlify.app/en/posts/ihate208w_extendedabstract/</loc>
-    <lastmod>2023-03-30T00:18:23+08:00</lastmod>
+    <loc>https://wangxi.netlify.app/en/posts/ihate208w/</loc>
+    <lastmod>2023-07-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://wangxi.netlify.app/en/tags/blog/</loc>
-    <lastmod>2023-03-30T00:18:23+08:00</lastmod>
-  </url><url>
-    <loc>https://wangxi.netlify.app/en/posts/floatingidentities_extendedabstract/</loc>
-    <lastmod>2023-03-30T00:18:23+08:00</lastmod>
+    <lastmod>2023-07-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://wangxi.netlify.app/en/posts/</loc>
-    <lastmod>2023-03-30T00:18:23+08:00</lastmod>
+    <lastmod>2023-07-30T00:18:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -25,10 +22,10 @@
                 />
   </url><url>
     <loc>https://wangxi.netlify.app/en/tags/</loc>
-    <lastmod>2023-03-30T00:18:23+08:00</lastmod>
+    <lastmod>2023-07-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://wangxi.netlify.app/en/</loc>
-    <lastmod>2023-03-30T00:18:23+08:00</lastmod>
+    <lastmod>2023-07-30T00:18:23+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -39,6 +36,9 @@
                 hreflang="en"
                 href="https://wangxi.netlify.app/en/"
                 />
+  </url><url>
+    <loc>https://wangxi.netlify.app/en/posts/floatingidentities/</loc>
+    <lastmod>2023-03-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://wangxi.netlify.app/en/about/</loc>
     <lastmod>2021-11-06T14:57:28+08:00</lastmod>
