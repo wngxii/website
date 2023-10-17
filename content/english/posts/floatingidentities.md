@@ -1,7 +1,7 @@
 ---
 title: "Floating identities: The cross-social media self-presentation of ACG fan community (Extended Abstract)"
-date: 2023-03-30T00:18:23+08:00
-lastmod: 2023-03-30T00:18:23+08:00
+date: 2023-07-30T00:18:23+08:00
+lastmod: 2023-07-30T00:18:23+08:00
 author: ["WANG Xi"]
 keywords: 
 - 
@@ -27,7 +27,7 @@ cover:
     alt: ""
     relative: true
 ---
-> This is an extended abstract submitted to the Audience Section of [IAMCR2023](https://iamcr.org/lyon2023).<br/>
+> This paper was included within the program of the program of the Audience Section as an Online Conference Paper at the annual conference of the International Association for Media and Communication Research, [IAMCR, 2023](https://iamcr.org/lyon2023). Here is the extended abstract.<br/>
 
 Despite the expanding audience size, ACG (Anime-Comics-Games) culture is still considered a subculture in China, whose fans are stereotyped as having “social withdrawal” and addicted to the online world. Social media is an important platform for ACG fans to communicate with their peers and self-present themselves. Investigating self-presentation on social media is crucial since it is a powerful predictor of social media attachment and addiction, which is the stereotype of the ACG fan community (Chen, 2019). As enthusiasts of virtual worlds, ACG fans are active on multiple social media platforms. How do ACG fans present their identities when using different social media? What are the factors that influence their self-presentation on social media?<br/> 
 
